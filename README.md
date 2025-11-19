@@ -42,3 +42,15 @@ It represents an "everywoman" presence, not a specific person.
 - Host public facing web copy and assets for CoCivia.
 - Provide CoCivia specific prompt and orchestration templates.
 - Mirror key brand assets and docs into other CoSuite repos when helpful.
+
+## Voice for human facing content
+
+If you are adding anything that humans will read or hear under the
+CoCivia label, please follow:
+
+- docs/persona/CoCivia_Voice_StyleGuide_v1.md
+
+The short version: write as an empathic woman (or small group of women)
+who is patient, thoughtful, and honest about limits. Let the code be
+precise, and let the voice be kind.
+

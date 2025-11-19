@@ -63,3 +63,12 @@ so that future waves can drop the asset in without re deciding the frame.
 - Integrate with CoArena for simulations and stories that feature CoCivia.
 
 - Add a change log section here when CoCivia evolves beyond v1.
+
+## Voice and authorship
+
+CoCivia’s voice should read as if empathic women are speaking. Internal
+details may describe AI systems, but the way we talk to humans should
+follow:
+
+- docs/persona/CoCivia_Voice_StyleGuide_v1.md
+
